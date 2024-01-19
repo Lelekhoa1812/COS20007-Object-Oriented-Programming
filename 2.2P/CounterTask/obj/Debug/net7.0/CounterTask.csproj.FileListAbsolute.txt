@@ -1,0 +1,30 @@
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.csproj.AssemblyReference.cache
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfoInputs.cache
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfo.cs
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/khoale/Projects/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask
+/Users/khoale/Projects/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.deps.json
+/Users/khoale/Projects/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/khoale/Projects/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.dll
+/Users/khoale/Projects/CounterTask/CounterTask/bin/Debug/net7.0/CounterTask.pdb
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.dll
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/refint/CounterTask.dll
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.pdb
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/CounterTask.genruntimeconfig.cache
+/Users/khoale/Projects/CounterTask/CounterTask/obj/Debug/net7.0/ref/CounterTask.dll
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/bin/Debug/net7.0/CounterTask
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/bin/Debug/net7.0/CounterTask.deps.json
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/bin/Debug/net7.0/CounterTask.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/bin/Debug/net7.0/CounterTask.dll
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/bin/Debug/net7.0/CounterTask.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.dll
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/refint/CounterTask.dll
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/CounterTask.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/2.2P/CounterTask/obj/Debug/net7.0/ref/CounterTask.dll

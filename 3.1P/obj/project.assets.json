@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Microsoft.VisualStudio.TestPlatform/14.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
+          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualStudio.TestPlatform/14.0.0": {
+      "sha512": "QlZrNka65U8Nn0NTVU+p6LqQUEUiWifUErbNRevT7zAirbi8xal45vnZLrx75ib2bTkFvhTydTtf3MVYX6hSAA==",
+      "type": "package",
+      "path": "microsoft.visualstudio.testplatform/14.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll",
+        "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll",
+        "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll",
+        "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll",
+        "microsoft.visualstudio.testplatform.14.0.0.nupkg.sha512",
+        "microsoft.visualstudio.testplatform.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.VisualStudio.TestPlatform >= 14.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/khoale/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/khoale/Desktop/Visual Code Saver/3.1P/3.1P/3.1P.csproj",
+      "projectName": "3.1P",
+      "projectPath": "/Users/khoale/Desktop/Visual Code Saver/3.1P/3.1P/3.1P.csproj",
+      "packagesPath": "/Users/khoale/.nuget/packages/",
+      "outputPath": "/Users/khoale/Desktop/Visual Code Saver/3.1P/3.1P/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/khoale/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.VisualStudio.TestPlatform": {
+            "target": "Package",
+            "version": "[14.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
