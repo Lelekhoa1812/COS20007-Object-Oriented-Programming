@@ -1,0 +1,105 @@
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/bin/Debug/net7.0/SplashKitTest
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/bin/Debug/net7.0/SplashKitTest.deps.json
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/bin/Debug/net7.0/SplashKitTest.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/bin/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/bin/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/refint/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/SplashKitTest.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/SplashKitTest/obj/Debug/net7.0/ref/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/bin/Debug/net7.0/SplashKitTest
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/bin/Debug/net7.0/SplashKitTest.deps.json
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/bin/Debug/net7.0/SplashKitTest.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/bin/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/bin/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/refint/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/SplashKitTest.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /SplashKitTest/obj/Debug/net7.0/ref/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.deps.json
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/refint/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/2.1P /2.3P Tester Demo/obj/Debug/net7.0/ref/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.deps.json
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/bin/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/refint/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/SplashKitTest.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P Tester Demo/obj/Debug/net7.0/ref/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.deps.json
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/refint/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/2.3P/2.3P by SplashKit/obj/Debug/net7.0/ref/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/refint/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.deps.json
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/bin/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/SplashKitTest.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/3.3A/2.3P by SplashKit/obj/Debug/net7.0/ref/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/refint/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/bin/Debug/net7.0/SplashKitTest
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/bin/Debug/net7.0/SplashKitTest.deps.json
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/bin/Debug/net7.0/SplashKitTest.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/bin/Debug/net7.0/SplashKitTest.dll
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/bin/Debug/net7.0/SplashKitTest.pdb
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/SplashKitTest.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/4.1P/4.1P by SplashKit/obj/Debug/net7.0/ref/SplashKitTest.dll
