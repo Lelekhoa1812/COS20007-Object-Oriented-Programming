@@ -1,0 +1,4 @@
+(06/09/2023) WARNING -> Attempting to clear an invalid window! [raised in window_manager.cpp:138]
+(06/09/2023) WARNING -> Attempting to draw to a surface that does not exist. [raised in utility_functions.cpp:231]
+(06/09/2023) WARNING -> Attempting to clear an invalid window! [raised in window_manager.cpp:138]
+(06/09/2023) WARNING -> Attempting to draw to a surface that does not exist. [raised in utility_functions.cpp:231]
