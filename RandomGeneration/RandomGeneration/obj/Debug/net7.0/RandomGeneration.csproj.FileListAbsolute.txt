@@ -1,0 +1,15 @@
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/bin/Debug/net7.0/RandomGeneration
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/bin/Debug/net7.0/RandomGeneration.deps.json
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/bin/Debug/net7.0/RandomGeneration.runtimeconfig.json
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/bin/Debug/net7.0/RandomGeneration.dll
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/bin/Debug/net7.0/RandomGeneration.pdb
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.csproj.AssemblyReference.cache
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.AssemblyInfoInputs.cache
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.AssemblyInfo.cs
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.csproj.CoreCompileInputs.cache
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.dll
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/refint/RandomGeneration.dll
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.pdb
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/RandomGeneration.genruntimeconfig.cache
+/Users/khoale/Downloads/RandomGeneration/RandomGeneration/obj/Debug/net7.0/ref/RandomGeneration.dll
