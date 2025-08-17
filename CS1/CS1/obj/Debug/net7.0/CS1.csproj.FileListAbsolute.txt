@@ -1,0 +1,15 @@
+/Users/khoale/Projects/CS1/CS1/bin/Debug/net7.0/CS1
+/Users/khoale/Projects/CS1/CS1/bin/Debug/net7.0/CS1.deps.json
+/Users/khoale/Projects/CS1/CS1/bin/Debug/net7.0/CS1.runtimeconfig.json
+/Users/khoale/Projects/CS1/CS1/bin/Debug/net7.0/CS1.dll
+/Users/khoale/Projects/CS1/CS1/bin/Debug/net7.0/CS1.pdb
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.csproj.AssemblyReference.cache
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.AssemblyInfoInputs.cache
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.AssemblyInfo.cs
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.csproj.CoreCompileInputs.cache
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.dll
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/refint/CS1.dll
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.pdb
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/CS1.genruntimeconfig.cache
+/Users/khoale/Projects/CS1/CS1/obj/Debug/net7.0/ref/CS1.dll

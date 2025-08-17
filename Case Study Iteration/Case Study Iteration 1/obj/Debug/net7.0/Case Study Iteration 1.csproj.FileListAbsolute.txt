@@ -1,0 +1,15 @@
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.csproj.AssemblyReference.cache
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.AssemblyInfoInputs.cache
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.AssemblyInfo.cs
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.csproj.CoreCompileInputs.cache
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/bin/Debug/net7.0/Case Study Iteration 1
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/bin/Debug/net7.0/Case Study Iteration 1.deps.json
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/bin/Debug/net7.0/Case Study Iteration 1.runtimeconfig.json
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/bin/Debug/net7.0/Case Study Iteration 1.dll
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/bin/Debug/net7.0/Case Study Iteration 1.pdb
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.dll
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/refint/Case Study Iteration 1.dll
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.pdb
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/Case Study Iteration 1.genruntimeconfig.cache
+/Users/khoale/Projects/Case Study Iteration 1/Case Study Iteration 1/obj/Debug/net7.0/ref/Case Study Iteration 1.dll
