@@ -1,0 +1,30 @@
+/Users/khoale/Projects/HurdleTask/HurdleTask/bin/Debug/net7.0/HurdleTask
+/Users/khoale/Projects/HurdleTask/HurdleTask/bin/Debug/net7.0/HurdleTask.deps.json
+/Users/khoale/Projects/HurdleTask/HurdleTask/bin/Debug/net7.0/HurdleTask.runtimeconfig.json
+/Users/khoale/Projects/HurdleTask/HurdleTask/bin/Debug/net7.0/HurdleTask.dll
+/Users/khoale/Projects/HurdleTask/HurdleTask/bin/Debug/net7.0/HurdleTask.pdb
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.csproj.AssemblyReference.cache
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.AssemblyInfoInputs.cache
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.AssemblyInfo.cs
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.csproj.CoreCompileInputs.cache
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.dll
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/refint/HurdleTask.dll
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.pdb
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/HurdleTask.genruntimeconfig.cache
+/Users/khoale/Projects/HurdleTask/HurdleTask/obj/Debug/net7.0/ref/HurdleTask.dll
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/bin/Debug/net7.0/HurdleTask
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/bin/Debug/net7.0/HurdleTask.deps.json
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/bin/Debug/net7.0/HurdleTask.runtimeconfig.json
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/bin/Debug/net7.0/HurdleTask.dll
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/bin/Debug/net7.0/HurdleTask.pdb
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.csproj.AssemblyReference.cache
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.AssemblyInfoInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.AssemblyInfo.cs
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.csproj.CoreCompileInputs.cache
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.dll
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/refint/HurdleTask.dll
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.pdb
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/HurdleTask.genruntimeconfig.cache
+/Users/khoale/Desktop/Visual Code Saver/SemesterTest/HurdleTask/obj/Debug/net7.0/ref/HurdleTask.dll
